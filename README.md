@@ -1,4 +1,4 @@
-# [Gaieges.github.io](gaieges.github.io) site
+# [Gaieges.github.io](http://gaieges.github.io) site
 
 Brief readme as a placeholder
 

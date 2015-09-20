@@ -181,6 +181,11 @@ nav h1, nav h2 {
   color: #666;
 }
 
+.pagination {
+  float: right;
+  margin-bottom: 5px;
+}
+
 #home h2 {
   color: {{ site.data.theme.highlight_color }};
 }

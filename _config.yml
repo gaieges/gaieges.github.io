@@ -1,6 +1,7 @@
 # General Jekyll Config
 highlighter: pygments
-url: http://gaieges.github.io
+url: https://gaieges.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 permalink: /:year/:month/:day/:title.html
+paginate: 5

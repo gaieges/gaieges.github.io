@@ -82,6 +82,7 @@ ul.posts li {
   line-height: 22px;
   font-size: 16px;
   margin-bottom: 0px;
+  border-top: 4px solid #EEE;
 }
 
 ul.posts span {

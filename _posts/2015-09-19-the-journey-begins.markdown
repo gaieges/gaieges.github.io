@@ -9,7 +9,7 @@ Only a few more days.. before the journey begins
 
 Soon, Adrienne and I will abandon all of our belongings, pack a to-go bag, and hop into a car where we intend to hop-skotch across the southern part of the US.  
 
-While this wouldn't be my first rodeo going across the country, one can never really be fully prepared for the limitless amount of things that could happen, so hopefully we're ready.  
+You'd think that having done this once before, I'd be prepared.  But really, one can never really be fully prepared for the limitless amount of things that could happen, so hopefully we at least get the important stuff like a wallet and keys for the car.
 
 Here's the path we're headed:
 

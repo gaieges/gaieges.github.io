@@ -159,6 +159,10 @@ nav h1, nav h2 {
   font-weight: bold;
 }
 
+#post h2 {
+  color: black;
+}
+
 
 .sidebar {
   padding-top: 25px;
@@ -202,7 +206,7 @@ nav h1, nav h2 {
   margin-bottom: 5px;
 }
 
-#home h2 {
+nav h1, h2 {
   color: {{ site.data.theme.highlight_color }};
 }
 

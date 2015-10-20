@@ -24,7 +24,7 @@ We ended up going to two museums, and the [state capitol building](https://en.wi
 
 | Pros | Cons |
 | ---- | ---- |
-| Interesting / creative | It's Texas <br/>(come on - you know what i mean: theres a Texas flag and star everywhere you look) |
+| Interesting / creative | It's Texas <br/>(you know what i mean: theres a Texas flag and star everywhere you look) |
 | Cheap | Kind of freaking hot, even in the end of summer |
 | Warm and Dry | Traffic |
 | Lush in winter / spring months | Hipster |
